@@ -11,3 +11,5 @@ my self mk
 want to count...
 
 Total commits
+
+new commit
